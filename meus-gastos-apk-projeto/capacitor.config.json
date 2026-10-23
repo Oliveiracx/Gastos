@@ -1,0 +1,6 @@
+{
+  "appId": "com.meusgastos.app",
+  "appName": "Meus Gastos",
+  "webDir": "www",
+  "plugins": { "CapacitorHttp": { "enabled": true } }
+}
